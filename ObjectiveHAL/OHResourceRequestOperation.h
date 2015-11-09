@@ -6,7 +6,7 @@
 //  Copyright (c) 2013 ObjectiveHAL. All rights reserved.
 //
 
-#import "AFJSONRequestOperation.h"
+#import <AFNetworking/AFJSONRequestOperation.h>
 #import "OHResource.h"
 
 /**
